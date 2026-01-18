@@ -1,11 +1,12 @@
+```markdown
 # Privacy Policy – Tarpup Connect
 
-**Effective Date:** 18/01/2026  
-**Last Updated:** 18/01/2026
+**Effective Date:** 18/12/2025  
+**Last Updated:** 18/12/2025
 
-Tarpup Connect is an AI-powered social application designed for students across campuses. The platform enables students to connect, interact, join groups, participate in group chats, share information, and engage in activities relevant to campus life.
+Tarpup Connect is an AI-powered social application designed for students across campuses. The platform enables students to connect, interact, join groups, **use group chat features**, share information, and engage in activities relevant to campus life.
 
-This Privacy Policy explains how we collect, use, process, disclose, and safeguard information when you use the Tarpup Connect application (the **Service**), including information related to direct messages, group interactions, user-generated content, and safety features.
+This Privacy Policy explains how we collect, use, process, disclose, and safeguard information when you use the Tarpup Connect application (the **Service**), including information related to direct messages, **group chats**, group interactions, user-generated content, and safety features.
 
 By accessing or using the Service, you agree to the practices described in this Privacy Policy.
 
@@ -22,10 +23,10 @@ We may collect information that you voluntarily provide when using the Service, 
 - Campus or institutional affiliation  
 - Profile information, including photos and bios  
 - Content you create, post, send, or otherwise share within the app  
-- Messages exchanged in direct chats and group chats  
-- Group-related activity, including groups you create, join, or participate in  
+- Messages exchanged in direct chats **and group chats**  
+- Group-related activity, including groups you create, join, participate in, or communicate within  
 - Communications with other users  
-- Reports, flags, or feedback submitted regarding other users, groups, or content  
+- Reports, flags, or feedback submitted regarding other users, groups, **group chats**, or content  
 - Any additional information you choose to provide  
 
 ### 1.2 Automatically Collected Information
@@ -36,14 +37,14 @@ When you use the Service, we may automatically collect:
 - IP address  
 - Log files and interaction metadata  
 - Date and time of activities  
-- App usage patterns, including group participation and messaging activity  
+- App usage patterns, including **group chat participation and messaging activity**  
 - Cookies or similar technologies, where applicable  
 
 ### 1.3 AI-Processed Information
 
 We may use artificial intelligence and machine learning systems to process user activity and content for purposes including:
 
-- Content moderation in posts, direct messages, and group chats  
+- Content moderation in posts, direct messages, **and group chats**  
 - Detection of spam, harassment, abuse, or policy violations  
 - Filtering objectionable or harmful content  
 - Improving safety, recommendations, and user experience  
@@ -58,11 +59,11 @@ AI processing may involve automated and human-assisted review where necessary.
 We use collected information to:
 
 - Operate, maintain, and improve the Service  
-- Enable user interaction, direct messaging, group chats, and group features  
-- Manage group creation, membership, and moderation  
+- Enable user interaction, direct messaging, **group chats**, and group features  
+- Manage group creation, membership, **group chat communication**, and moderation  
 - Personalize content, groups, and recommendations  
 - Provide notifications, updates, and customer support  
-- Monitor platform and group activity and enforce community safety  
+- Monitor platform, **group, and group chat activity** and enforce community safety  
 - Detect, prevent, investigate, and respond to objectionable content, abuse, harassment, or policy violations  
 - Process user reports, blocks, and group moderation actions  
 - Comply with legal, regulatory, and contractual obligations  
@@ -77,17 +78,17 @@ We may share information in the following circumstances:
 
 ### 3.1 With Other Users
 
-Information you choose to share through the Service, including profile details, posts, messages, or group chat content, may be visible to other users depending on privacy settings, group membership, and interactions.
+Information you choose to share through the Service, including profile details, posts, messages, **and group chat content**, may be visible to other users depending on privacy settings, group membership, and interactions.
 
 ### 3.2 With Service Providers
 
-We may share information with third-party service providers who assist with hosting, analytics, moderation, security, AI processing, messaging infrastructure, or customer support. These providers are subject to confidentiality and data protection obligations.
+We may share information with third-party service providers who assist with hosting, analytics, moderation, security, AI processing, **group chat and messaging infrastructure**, or customer support. These providers are subject to confidentiality and data protection obligations.
 
 ### 3.3 Safety and Policy Enforcement
 
 We may access, review, preserve, and share information when reasonably necessary to:
 
-- Investigate reports of abusive or objectionable content  
+- Investigate reports of abusive or objectionable content, including within **group chats**  
 - Enforce community standards, group rules, and terms  
 - Protect the safety and rights of users and the public  
 
@@ -103,15 +104,15 @@ If Tarpup Connect is involved in a merger, acquisition, restructuring, or sale o
 
 ## 4. Content Moderation, Reporting, and Blocking
 
-Tarpup Connect includes user-generated content, direct messaging, and group-based interaction features.
+Tarpup Connect includes user-generated content, direct messaging, **group chats**, and group-based interaction features.
 
-- Users may report or flag content, messages, groups, or accounts  
-- Users may block other users to restrict interactions  
-- Groups may be moderated by designated group creators or administrators, subject to platform oversight  
+- Users may report or flag content, messages, **group chats**, groups, or accounts  
+- Users may block other users to restrict interactions, including in **group chats**  
+- Groups and **group chats** may be moderated by designated group creators or administrators, subject to platform oversight  
 - Reports may be reviewed by automated systems and human moderators  
 - Reported content and related data may be retained temporarily for enforcement purposes  
 
-Appropriate action may include content removal, group restrictions, or account enforcement.
+Appropriate action may include content removal, **group chat restrictions**, group limitations, or account enforcement.
 
 ---
 
@@ -120,7 +121,7 @@ Appropriate action may include content removal, group restrictions, or account e
 We retain personal information only as long as necessary to:
 
 - Provide and operate the Service  
-- Support moderation and abuse prevention  
+- Support moderation and abuse prevention, including in **group chats**  
 - Comply with legal obligations  
 - Resolve disputes and enforce policies  
 
@@ -149,7 +150,7 @@ Requests can be submitted using the contact information below.
 
 ## 8. Community Responsibility
 
-Tarpup Connect is a community-driven platform with public posts, private messages, and group discussions. Users are responsible for their content and interactions.
+Tarpup Connect is a community-driven platform with public posts, private messages, **and group chats**. Users are responsible for their content and interactions.
 
 ---
 
@@ -173,7 +174,7 @@ Information may be processed or stored outside your country of residence. By usi
 
 ## 12. Changes to This Policy
 
-We may update this Privacy Policy from time to time. Continued use of the Service constitutes acceptance of the updated policy.
+We may update this Privacy Policy from time to time, including to reflect new features such as **group chats**. Continued use of the Service constitutes acceptance of the updated policy.
 
 ---
 
@@ -187,3 +188,4 @@ We may update this Privacy Policy from time to time. Continued use of the Servic
 ## Acknowledgement
 
 By using Tarpup Connect, you acknowledge that you have read and agreed to this Privacy Policy.
+```
