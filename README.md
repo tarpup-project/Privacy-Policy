@@ -1,8 +1,8 @@
 ```markdown
 # Privacy Policy – Tarpup Connect
 
-**Effective Date:** 18/12/2025  
-**Last Updated:** 18/12/2025
+**Effective Date:** 18/01/2026  
+**Last Updated:** 18/01/2026
 
 Tarpup Connect is an AI-powered social application designed for students across campuses. The platform enables students to connect, interact, join groups, **use group chat features**, share information, and engage in activities relevant to campus life.
 
